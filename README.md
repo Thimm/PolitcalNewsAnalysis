@@ -1,4 +1,4 @@
-# Politcal News Analysis
+# German Politcal News Analysis
 Analyse the Common Crawl News dataset.
 
 Features:
